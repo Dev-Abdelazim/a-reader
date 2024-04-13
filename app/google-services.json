@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342657625335",
+    "project_id": "areaderapp-d89d0",
+    "storage_bucket": "areaderapp-d89d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342657625335:android:eb66ae158ea94f959bf7f2",
+        "android_client_info": {
+          "package_name": "com.elfaidy.areader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9AiGit52DbQowajrTqkC9pP0i6Yz_Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
